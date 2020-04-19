@@ -3,3 +3,4 @@
 3,技术栈: spring,springboot,mybatis,mysql
 5，启动类DemoApplication
 6,启动后访问测试：http://localhost:9527/person/queryAll
+7,java -cp $lib -Xms224m -Xmx524m -jar mybatis-0.0.1-SNAPSHOT.jar
