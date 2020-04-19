@@ -1,3 +1,5 @@
-1,Ò»¸ö¼òµ¥µÄspring bootÏîÄ¿£¬¼¯³ÉÊı¾İ¿â·ÃÎÊ£¬web·şÎñ½Ó¿Ú
-2,Âß¼­·Ö²ã£ºÇ°¶Ë, controller, service, mapper, db
-3,¼¼ÊõÕ»: spring,springboot,mybatis,mysql
+1,ä¸€ä¸ªç®€å•çš„spring booté¡¹ç›®ï¼Œé›†æˆæ•°æ®åº“è®¿é—®ï¼ŒwebæœåŠ¡æ¥å£
+2,é€»è¾‘åˆ†å±‚ï¼šå‰ç«¯, controller, service, mapper, db
+3,æŠ€æœ¯æ ˆ: spring,springboot,mybatis,mysql
+5ï¼Œå¯åŠ¨ç±»DemoApplication
+6,å¯åŠ¨åè®¿é—®æµ‹è¯•ï¼šhttp://localhost:9527/person/queryAll
